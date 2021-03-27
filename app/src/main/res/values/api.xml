@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- development instance base URL -->
+    <string name="base_url">Url</string>
+    <!-- development instance socket base URL -->
+    <string name="socket_base_url">@string/base_url</string>
+    <!-- development instance API base URL -->
+    <string name="api_base_url">%1$s/API/</string>
+
+</resources>
